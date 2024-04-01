@@ -1,0 +1,26 @@
+<section>
+        
+          <h1>Articles</h1>
+        <br>
+        
+       <div class="">
+         <a target="_blank" href="#">
+           <img src="images/news1.png" height="250px" width="400px">
+         </a>
+         <div class="desc">Add a description of the image here</div>
+       </div>
+
+        <div class="">
+           <a target="_blank" href="#">
+             <img src="images/ted-lasso-season-2.webp" height="250px" width="400px">
+           </a>
+           <div class="desc">Add a description of the image here</div>
+         </div>
+
+        <div class="">
+           <a target="_blank" href="#">
+             <img src="images/IMG_COM_20230524_2011_08_3016-1024x768.webp" height="250px" width="400px">
+           </a>
+           <div class="desc">Add a description of the image here</div>
+         </div>
+      </section>
