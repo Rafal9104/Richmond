@@ -12,7 +12,7 @@ Scores and Table page, allows user to check updated league table, latest scores 
 Team page consist an image and and list of team members with important information about every player.
 Tickets page allows you to sign up for membership, with informations about ticket prices.
 Contact Us page allow user to send feedback.
-> Live demo [_here_](https://project-richmond.rafal9104.repl.co/index.html). 
+> Live demo [_here_](https://rafal9104.github.io/Richmond/). 
 
 ## Table of Contents
 * [General Info](#general-information)
